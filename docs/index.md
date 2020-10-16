@@ -1,12 +1,14 @@
 ## Period 2 Share [ Do not distribute/share. ]
 
-You can use the [editor on GitHub](https://github.com/UnicodeBerry/period2-dir/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Heyo! Jeebus here, you have stumbled upon the home page of the provider repository!
+I usually use this repository to share files and shorten links.
+Shortened Links usually go to Google Drive which can only be accessible by people from the district (Students/Teachers/TAs).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Google Drive Shortened Links
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Click here to go.](https://unicodeberry.github.io/period2-dir/urlshort/gdrive/)
 
 ```markdown
 Syntax highlighted code block
